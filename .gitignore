@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+.vs/
+*.user
+*.VC.db
+*.suo
